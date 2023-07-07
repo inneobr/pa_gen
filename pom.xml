@@ -12,7 +12,7 @@
 	<artifactId>genesis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Gênesis</name>
-	<description>Gênesis 1.0</description>
+	<description>Gen 1.0</description>
 	<properties>
 		<java.version>19</java.version>
 		<spring-boot.run.jvmArguments>-Duser.timezone=America/Sao_Paulo</spring-boot.run.jvmArguments>
